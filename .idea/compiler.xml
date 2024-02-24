@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-data-jpa" />
+        <module name="web-thymeleaf" />
+        <module name="spring-rest-security" />
+        <module name="spring-data-jpa-postgres" />
+        <module name="spring-boot-profile (2)" />
+        <module name="spring-boot-change-port" />
+        <module name="spring-boot-autoconfiguration" />
+        <module name="spring-boot-test-json" />
+        <module name="spring-boot-testcontainers" />
+        <module name="webflux-thymeleaf-sse" />
+        <module name="spring-boot-send-email" />
+        <module name="testing-junit5-mockito" />
+        <module name="spring-boot-hello-world" />
+        <module name="spring-rest-validation" />
+        <module name="spring-boot-slf4j" />
+        <module name="spring-boot-ssl" />
+        <module name="spring-boot-externalize-config" />
+        <module name="spring-data-jpa-mysql" />
+        <module name="docker-spring-boot" />
+        <module name="spring-boot-yaml-example" />
+        <module name="spring-boot-externalize-config-3" />
+        <module name="spring-boot-externalize-config-2" />
+        <module name="logging-log4j2" />
+        <module name="spring-boot-profile (1)" />
+        <module name="spring-boot-externalize-config-4" />
+        <module name="spring-boot-profile (3)" />
+        <module name="spring-data-jpa-paging-sorting" />
+        <module name="web-thymeleaf-war" />
+        <module name="webflux-thymeleaf" />
+        <module name="spring-jdbc" />
+        <module name="spring-rest-hello-world" />
+        <module name="spring-boot-commandlinerunner" />
+        <module name="spring-rest-error-handling" />
+        <module name="spring-boot-jobrunr" />
+        <module name="spring-data-jpa-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-profile" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="docker-spring-boot" options="-parameters" />
+      <module name="logging-log4j2" options="-parameters" />
+      <module name="spring-boot-autoconfiguration" options="-parameters" />
+      <module name="spring-boot-change-port" options="-parameters" />
+      <module name="spring-boot-commandlinerunner" options="-parameters" />
+      <module name="spring-boot-externalize-config" options="-parameters" />
+      <module name="spring-boot-externalize-config-2" options="-parameters" />
+      <module name="spring-boot-externalize-config-3" options="-parameters" />
+      <module name="spring-boot-externalize-config-4" options="-parameters" />
+      <module name="spring-boot-hello-world" options="-parameters" />
+      <module name="spring-boot-jobrunr" options="-parameters" />
+      <module name="spring-boot-profile (1)" options="-parameters" />
+      <module name="spring-boot-profile (2)" options="-parameters" />
+      <module name="spring-boot-profile (3)" options="-parameters" />
+      <module name="spring-boot-send-email" options="-parameters" />
+      <module name="spring-boot-slf4j" options="-parameters" />
+      <module name="spring-boot-ssl" options="-parameters" />
+      <module name="spring-boot-test-json" options="-parameters" />
+      <module name="spring-boot-testcontainers" options="-parameters" />
+      <module name="spring-boot-yaml-example" options="-parameters" />
+      <module name="spring-data-jpa" options="-parameters" />
+      <module name="spring-data-jpa-mysql" options="-parameters" />
+      <module name="spring-data-jpa-paging-sorting" options="-parameters" />
+      <module name="spring-data-jpa-postgres" options="-parameters" />
+      <module name="spring-data-jpa-test" options="-parameters" />
+      <module name="spring-jdbc" options="-parameters" />
+      <module name="spring-rest-error-handling" options="-parameters" />
+      <module name="spring-rest-hello-world" options="-parameters" />
+      <module name="spring-rest-security" options="-parameters" />
+      <module name="spring-rest-validation" options="-parameters" />
+      <module name="testing-junit5-mockito" options="-parameters" />
+      <module name="web-thymeleaf" options="-parameters" />
+      <module name="web-thymeleaf-war" options="-parameters" />
+      <module name="webflux-thymeleaf" options="-parameters" />
+      <module name="webflux-thymeleaf-sse" options="-parameters" />
+    </option>
+  </component>
+</project>

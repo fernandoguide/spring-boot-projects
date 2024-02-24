@@ -1,0 +1,4 @@
+com/mkyong/Application.class
+com/mkyong/book/Book.class
+com/mkyong/book/BookRepository.class
+com/mkyong/book/BookController.class

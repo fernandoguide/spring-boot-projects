@@ -1,0 +1,5 @@
+com/mkyong/book/BookControllerTest.class
+com/mkyong/book/BookRepositoryTest.class
+com/mkyong/book/BookRepositoryDynamicPropertyTest.class
+com/mkyong/book/BookRepositoryServiceConnectionTest.class
+com/mkyong/book/BookControllerOldWayTest.class
